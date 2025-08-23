@@ -1,17 +1,17 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="广西卫视" tvg-logo="" group-title="Undefined",Zee One
+#EXTINF:-1 ,广西卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 广西卫视
+#EXTINF:-1 ,广西卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 广西新闻
+#EXTINF:-1 ,广西新闻
 http://39.135.32.28:6610/PLTV/77777777/224/3221226285/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 广西综艺旅游
+#EXTINF:-1 ,广西综艺旅游
 http://39.135.32.28:6610/PLTV/77777777/224/3221226292/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 广西都市
+#EXTINF:-1 ,广西都市
 http://39.135.32.28:6610/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 广西影视
+#EXTINF:-1 ,广西影视
 http://39.135.32.28:6610/PLTV/77777777/224/3221226298/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 南宁新闻综合
+#EXTINF:-1 ,南宁新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226281/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,南宁公共
 http://39.135.32.28:6610/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -349,6 +349,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&
 http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,黑莓动画
 http://39.135.32.28:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 
 
 
