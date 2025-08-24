@@ -2,7 +2,7 @@
 #EXTINF:-1 ,广西卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,广西卫视
-http://39.135.32.28:6610/PLTV/77777777/224/3221225896/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221225986/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,广西新闻
 http://39.135.32.28:6610/PLTV/77777777/224/3221226285/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,广西综艺旅游
@@ -349,6 +349,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&
 http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,黑莓动画
 http://39.135.32.28:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 
 
 
