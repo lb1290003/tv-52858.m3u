@@ -247,7 +247,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1&
 http://111.12.102.79:6610/PLTV/77777777/224/3221225816/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,CGTN俄语
 http://111.12.102.79:6610/PLTV/77777777/224/3221225825/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CGTN法语,
+#EXTINF:-1 ,CGTN法语
 http://111.12.102.79:6610/PLTV/77777777/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,CGTN西语
 http://111.12.102.79:6610/PLTV/77777777/224/3221225875/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -349,6 +349,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&
 http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,黑莓动画
 http://39.135.32.28:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 
 
 
