@@ -227,11 +227,11 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&I
 http://39.135.32.28:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,纯享4K
 http://111.12.102.79:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,凤凰卫视-资讯台
+#EXTINF:-1 ,凤凰资讯
 http://111.12.102.79:6610/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,凤凰卫视-中文台
+#EXTINF:-1 ,凤凰中文
 http://111.12.102.79:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,凤凰卫视-香港台
+#EXTINF:-1 ,凤凰香港
 http://111.12.102.79:6610/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,CCTV高尔夫网球
 http://111.12.102.79:6610/PLTV/77777777/224/3221225884/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -349,6 +349,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&
 http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,黑莓动画
 http://39.135.32.28:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 
 
 
