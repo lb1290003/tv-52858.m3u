@@ -4,71 +4,63 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1&I
 #EXTINF:-1 ,广西卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225986/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,广西新闻
-http://39.135.32.28:6610/PLTV/77777777/224/3221226285/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226407/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,广西综艺旅游
-http://39.135.32.28:6610/PLTV/77777777/224/3221226292/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226409/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,广西都市
-http://39.135.32.28:6610/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广西影视
-http://39.135.32.28:6610/PLTV/77777777/224/3221226298/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226335/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,广西影视,
+http://39.135.32.28:6610/PLTV/77777777/224/3221226336/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,南宁新闻综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226281/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226341/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,南宁公共
-http://39.135.32.28:6610/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226340/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,南宁影视娱乐
-http://39.135.32.28:6610/PLTV/77777777/224/3221226291/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226337/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,南宁文旅生活
-http://39.135.32.28:6610/PLTV/77777777/224/3221226288/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,柳州公共
-http://39.135.32.28:6610/PLTV/77777777/224/3221226307/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226344/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,柳州新闻综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226304/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226348/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,柳州科教
-http://39.135.32.28:6610/PLTV/77777777/224/3221226287/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,河池教育
-http://39.135.32.28:6610/PLTV/77777777/224/3221226305/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226434/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,河池新闻综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226302/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226356/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,北海新闻综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226309/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226346/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,北海经济科教
-http://39.135.32.28:6610/PLTV/77777777/224/3221226308/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226431/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,来宾综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226290/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226357/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,玉林新闻综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226299/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,玉林公共
-http://39.135.32.28:6610/PLTV/77777777/224/3221226319/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226354/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,百色综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226322/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226353/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,贺州综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226296/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226352/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,梧州新闻综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226313/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,梧州公共频道
-http://39.135.32.28:6610/PLTV/77777777/224/3221226297/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226349/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,梧州教育生活
-http://39.135.32.28:6610/PLTV/77777777/224/3221226316/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226444/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,防城港新闻综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226312/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226350/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,防城港公共
-http://39.135.32.28:6610/PLTV/77777777/224/3221226328/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226441/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,崇左综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226314/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,桂林新闻综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226294/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226343/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,桂林科教旅游
-http://39.135.32.28:6610/PLTV/77777777/224/3221226293/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226339/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,桂林公共频道
-http://39.135.32.28:6610/PLTV/77777777/224/3221226310/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226342/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,贵港新闻综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226300/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226345/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,贵港科教生活
-http://39.135.32.28:6610/PLTV/77777777/224/3221226303/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226424/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,钦州新闻综合
-http://39.135.32.28:6610/PLTV/77777777/224/3221226306/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226347/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,钦州公共影视
-http://39.135.32.28:6610/PLTV/77777777/224/3221226325/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.135.32.28:6610/PLTV/77777777/224/3221226459/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,NewTV中国功夫
 http://39.135.32.28:6610/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,NewTV军事评论
@@ -349,6 +341,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&
 http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,黑莓动画
 http://39.135.32.28:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 
 
 
