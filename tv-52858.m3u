@@ -1,348 +1,349 @@
-#EXTM3U 
-#EXTINF:-1 ,group-title="广西频道",广西卫视
+#EXTM3Ux-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" 
+#EXTINF:-1 ,group-title="移动源",group-title="广西频道",广西卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广西卫视
+#EXTINF:-1 ,group-title="移动源",广西卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225986/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广西新闻
+#EXTINF:-1 ,group-title="移动源",广西新闻
 http://39.135.32.28:6610/PLTV/77777777/224/3221226407/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广西综艺旅游
+#EXTINF:-1 ,group-title="移动源",广西综艺旅游
 http://39.135.32.28:6610/PLTV/77777777/224/3221226409/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广西都市
+#EXTINF:-1 ,group-title="移动源",广西都市
 http://39.135.32.28:6610/PLTV/77777777/224/3221226335/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广西影视
+#EXTINF:-1 ,group-title="移动源",广西影视
 http://39.135.32.28:6610/PLTV/77777777/224/3221226336/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广西移动
+#EXTINF:-1 ,group-title="移动源",广西移动
 http://39.135.32.28:6610/PLTV/77777777/224/3221226338/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,南宁新闻综合
+#EXTINF:-1 ,group-title="移动源",南宁新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226341/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,南宁公共
+#EXTINF:-1 ,group-title="移动源",南宁公共
 http://39.135.32.28:6610/PLTV/77777777/224/3221226340/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,南宁影视娱乐
+#EXTINF:-1 ,group-title="移动源",南宁影视娱乐
 http://39.135.32.28:6610/PLTV/77777777/224/3221226337/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,南宁文旅生活
+#EXTINF:-1 ,group-title="移动源",南宁文旅生活
 http://39.135.32.28:6610/PLTV/77777777/224/3221226344/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,柳州新闻综合
+#EXTINF:-1 ,group-title="移动源",柳州新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226348/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,柳州科教
+#EXTINF:-1 ,group-title="移动源",柳州科教
 http://39.135.32.28:6610/PLTV/77777777/224/3221226434/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,河池新闻综合
+#EXTINF:-1 ,group-title="移动源",河池新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226356/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,北海新闻综合
+#EXTINF:-1 ,group-title="移动源",北海新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226346/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,北海经济科教
+#EXTINF:-1 ,group-title="移动源",北海经济科教
 http://39.135.32.28:6610/PLTV/77777777/224/3221226431/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,来宾综合
+#EXTINF:-1 ,group-title="移动源",来宾综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226357/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,玉林新闻综合
+#EXTINF:-1 ,group-title="移动源",玉林新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226354/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,百色综合
+#EXTINF:-1 ,group-title="移动源",百色综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226353/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,贺州综合
+#EXTINF:-1 ,group-title="移动源",贺州综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226352/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,梧州新闻综合
+#EXTINF:-1 ,group-title="移动源",梧州新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226349/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,梧州教育生活
+#EXTINF:-1 ,group-title="移动源",梧州教育生活
 http://39.135.32.28:6610/PLTV/77777777/224/3221226444/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,防城港新闻综合
+#EXTINF:-1 ,group-title="移动源",防城港新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226350/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,防城港公共
+#EXTINF:-1 ,group-title="移动源",防城港公共
 http://39.135.32.28:6610/PLTV/77777777/224/3221226441/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,崇左综合
+#EXTINF:-1 ,group-title="移动源",崇左综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,桂林新闻综合
+#EXTINF:-1 ,group-title="移动源",桂林新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226343/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,桂林科教旅游
+#EXTINF:-1 ,group-title="移动源",桂林科教旅游
 http://39.135.32.28:6610/PLTV/77777777/224/3221226339/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,桂林公共频道
+#EXTINF:-1 ,group-title="移动源",桂林公共频道
 http://39.135.32.28:6610/PLTV/77777777/224/3221226342/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,贵港新闻综合
+#EXTINF:-1 ,group-title="移动源",贵港新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226345/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,贵港科教生活
+#EXTINF:-1 ,group-title="移动源",贵港科教生活
 http://39.135.32.28:6610/PLTV/77777777/224/3221226424/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,钦州新闻综合
+#EXTINF:-1 ,group-title="移动源",钦州新闻综合
 http://39.135.32.28:6610/PLTV/77777777/224/3221226347/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,钦州公共影视
+#EXTINF:-1 ,group-title="移动源",钦州公共影视
 http://39.135.32.28:6610/PLTV/77777777/224/3221226459/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV中国功夫
+#EXTINF:-1 ,group-title="移动源",NewTV中国功夫
 http://39.135.32.28:6610/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV军事评论
+#EXTINF:-1 ,group-title="移动源",NewTV军事评论
 http://39.135.32.28:6610/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV军旅剧场
+#EXTINF:-1 ,group-title="移动源",NewTV军旅剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV农业致富
+#EXTINF:-1 ,group-title="移动源",NewTV农业致富
 http://39.135.32.28:6610/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV动作电影
+#EXTINF:-1 ,group-title="移动源",NewTV动作电影
 http://39.135.32.28:6610/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV古装剧场
+#EXTINF:-1 ,group-title="移动源",NewTV古装剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV家庭剧场
+#EXTINF:-1 ,group-title="移动源",NewTV家庭剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV怡伴健康
+#EXTINF:-1 ,group-title="移动源",NewTV怡伴健康
 http://39.135.32.28:6610/PLTV/77777777/224/3221225684/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV惊悚悬疑
+#EXTINF:-1 ,group-title="移动源",NewTV惊悚悬疑
 http://39.135.32.28:6610/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV明星大片
+#EXTINF:-1 ,group-title="移动源",NewTV明星大片
 http://39.135.32.28:6610/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV武搏世界
+#EXTINF:-1 ,group-title="移动源",NewTV武搏世界
 http://39.135.32.28:6610/PLTV/77777777/224/3221225758/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV国产影视
+#EXTINF:-1 ,group-title="移动源",NewTV国产影视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV海外剧场
+#EXTINF:-1 ,group-title="移动源",NewTV海外剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV潮妈辣婆
+#EXTINF:-1 ,group-title="移动源",NewTV潮妈辣婆
 http://39.135.32.28:6610/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV炫舞未来
+#EXTINF:-1 ,group-title="移动源",NewTV炫舞未来
 http://39.135.32.28:6610/PLTV/77777777/224/3221225728/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV爱情喜剧
+#EXTINF:-1 ,group-title="移动源",NewTV爱情喜剧
 http://39.135.32.28:6610/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV精品体育
+#EXTINF:-1 ,group-title="移动源",NewTV精品体育
 http://39.135.32.28:6610/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV精品大剧
+#EXTINF:-1 ,group-title="移动源",NewTV精品大剧
 http://39.135.32.28:6610/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV精品纪录
+#EXTINF:-1 ,group-title="移动源",NewTV精品纪录
 http://39.135.32.28:6610/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV金牌综艺
+#EXTINF:-1 ,group-title="移动源",NewTV金牌综艺
 http://39.135.32.28:6610/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,黑莓动画
+#EXTINF:-1 ,group-title="移动源",黑莓动画
 http://39.135.32.28:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,黑莓电影
+#EXTINF:-1 ,group-title="移动源",黑莓电影
 http://39.135.32.28:6610/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,黑莓电竞
+#EXTINF:-1 ,group-title="移动源",黑莓电竞
 http://39.135.32.28:6610/PLTV/77777777/224/3221225760/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225771/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225774/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225777/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225780/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225783/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225786/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225792/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225793/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225796/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225799/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225802/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225805/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225808/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225811/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225814/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225817/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225820/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225834/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225837/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225839/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225848/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225850/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225851/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225853/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225854/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225857/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225860/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225893/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 ,group-title="移动源",咪咕视频
 http://39.135.32.28:6610/PLTV/77777777/224/3221225896/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,group-title="央视频道",CCTV1
+#EXTINF:-1 ,group-title="移动源",group-title="央视频道",CCTV1
 http://39.135.32.28:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 ,group-title="移动源",CCTV1
 http://111.12.102.79:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 ,group-title="移动源",CCTV2
 http://39.135.32.28:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 ,group-title="移动源",CCTV2
 http://111.12.102.79:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 ,group-title="移动源",CCTV3
 http://39.135.32.28:6610/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV4
+#EXTINF:-1 ,group-title="移动源",CCTV4
 http://39.135.32.28:6610/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 ,group-title="移动源",CCTV5
 http://111.12.102.79:6610/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV5+
+#EXTINF:-1 ,group-title="移动源",CCTV5+
 http://39.135.32.28:6610/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 ,group-title="移动源",CCTV6
 http://39.135.32.28:6610/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV7
+#EXTINF:-1 ,group-title="移动源",CCTV7
 http://39.135.32.28:6610/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 ,group-title="移动源",CCTV8
 http://111.12.102.79:6610/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 ,group-title="移动源",CCTV8
 http://39.135.32.28:6610/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV9
+#EXTINF:-1 ,group-title="移动源",CCTV9
 http://39.135.32.28:6610/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV10
+#EXTINF:-1 ,group-title="移动源",CCTV10
 http://39.135.32.28:6610/PLTV/77777777/224/3221225704/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV11
+#EXTINF:-1 ,group-title="移动源",CCTV11
 http://111.12.102.79:6610/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV11
+#EXTINF:-1 ,group-title="移动源",CCTV11
 http://39.135.32.28:6610/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV12
+#EXTINF:-1 ,group-title="移动源",CCTV12
 http://111.12.102.79:6610/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV12
+#EXTINF:-1 ,group-title="移动源",CCTV12
 http://39.135.32.28:6610/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 ,group-title="移动源",CCTV13
 http://111.12.102.79:6610/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 ,group-title="移动源",CCTV13
 http://39.135.32.28:6610/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV14
+#EXTINF:-1 ,group-title="移动源",CCTV14
 http://111.12.102.79:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV14
+#EXTINF:-1 ,group-title="移动源",CCTV14
 http://39.135.32.28:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV15
+#EXTINF:-1 ,group-title="移动源",CCTV15
 http://111.12.102.79:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV15
+#EXTINF:-1 ,group-title="移动源",CCTV15
 http://39.135.32.28:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV16
+#EXTINF:-1 ,group-title="移动源",CCTV16
 http://39.135.32.28:6610/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV17
+#EXTINF:-1 ,group-title="移动源",CCTV17
 http://39.135.32.28:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 ,group-title="移动源",纯享4K
 http://111.12.102.79:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,凤凰资讯
+#EXTINF:-1 ,group-title="移动源",凤凰资讯
 http://111.12.102.79:6610/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,凤凰中文
+#EXTINF:-1 ,group-title="移动源",凤凰中文
 http://111.12.102.79:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,凤凰香港
+#EXTINF:-1 ,group-title="移动源",凤凰香港
 http://111.12.102.79:6610/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV高尔夫网球
+#EXTINF:-1 ,group-title="移动源",CCTV高尔夫网球
 http://111.12.102.79:6610/PLTV/77777777/224/3221225884/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,睛彩广场舞
+#EXTINF:-1 ,group-title="移动源",睛彩广场舞
 http://111.12.102.79:6610/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,睛彩竞技
+#EXTINF:-1 ,group-title="移动源",睛彩竞技
 http://111.12.102.79:6610/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,睛彩篮球
+#EXTINF:-1 ,group-title="移动源",睛彩篮球
 http://111.12.102.79:6610/PLTV/77777777/224/3221225961/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,睛彩青少
+#EXTINF:-1 ,group-title="移动源",睛彩青少
 http://111.12.102.79:6610/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CGTN
+#EXTINF:-1 ,group-title="移动源",CGTN
 http://111.12.102.79:6610/PLTV/77777777/224/3221225816/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CGTN俄语
+#EXTINF:-1 ,group-title="移动源",CGTN俄语
 http://111.12.102.79:6610/PLTV/77777777/224/3221225825/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CGTN法语
+#EXTINF:-1 ,group-title="移动源",CGTN法语
 http://111.12.102.79:6610/PLTV/77777777/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CGTN西语
+#EXTINF:-1 ,group-title="移动源",CGTN西语
 http://111.12.102.79:6610/PLTV/77777777/224/3221225875/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CGTN阿语
+#EXTINF:-1 ,group-title="移动源",CGTN阿语
 http://111.12.102.79:6610/PLTV/77777777/224/3221225822/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CGTN纪录
+#EXTINF:-1 ,group-title="移动源",CGTN纪录
 http://111.12.102.79:6610/PLTV/77777777/224/3221225707/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,中国教育1
+#EXTINF:-1 ,group-title="移动源",中国教育1
 http://39.135.32.236:6610/PLTV/77777777/224/3221225776/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,中国教育4
+#EXTINF:-1 ,group-title="移动源",中国教育4
 http://39.135.32.236:6610/PLTV/77777777/224/3221225723/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 ,group-title="移动源",江苏卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,辽宁卫视
+#EXTINF:-1 ,group-title="移动源",辽宁卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,山东卫视
+#EXTINF:-1 ,group-title="移动源",山东卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,北京卫视
+#EXTINF:-1 ,group-title="移动源",北京卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,北京卫视
+#EXTINF:-1 ,group-title="移动源",北京卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1 ,group-title="移动源",广东卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1 ,group-title="移动源",广东卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,江西卫视
+#EXTINF:-1 ,group-title="移动源",江西卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225492/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,安徽卫视
+#EXTINF:-1 ,group-title="移动源",安徽卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,天津卫视
+#EXTINF:-1 ,group-title="移动源",天津卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,天津卫视
+#EXTINF:-1 ,group-title="移动源",天津卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,吉林卫视
+#EXTINF:-1 ,group-title="移动源",吉林卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,重庆卫视
+#EXTINF:-1 ,group-title="移动源",重庆卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1 ,group-title="移动源",东方卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,黑龙江卫视
+#EXTINF:-1 ,group-title="移动源",黑龙江卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225734/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,湖北卫视
+#EXTINF:-1 ,group-title="移动源",湖北卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,深圳卫视
+#EXTINF:-1 ,group-title="移动源",深圳卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1 ,group-title="移动源",湖南卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1 ,group-title="移动源",浙江卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,青海卫视
+#EXTINF:-1 ,group-title="移动源",青海卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,南方卫视
+#EXTINF:-1 ,group-title="移动源",南方卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,内蒙古卫视
+#EXTINF:-1 ,group-title="移动源",内蒙古卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,海南卫视
+#EXTINF:-1 ,group-title="移动源",海南卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,陕西卫视
+#EXTINF:-1 ,group-title="移动源",陕西卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,四川卫视
+#EXTINF:-1 ,group-title="移动源",四川卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,甘肃卫视
+#EXTINF:-1 ,group-title="移动源",甘肃卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, 贵州卫视
+#EXTINF:-1, group-title="移动源",贵州卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,河北卫视
+#EXTINF:-1 ,group-title="移动源",河北卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, 河北卫视
+#EXTINF:-1, group-title="移动源",河北卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,宁夏卫视
+#EXTINF:-1 ,group-title="移动源",宁夏卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,山西卫视
+#EXTINF:-1 ,group-title="移动源",山西卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
-#EXTINF:-1 ,新疆卫视
+#EXTINF:-1 ,group-title="移动源",新疆卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
-#EXTINF:-1 ,优漫卡通
+#EXTINF:-1 ,group-title="移动源",优漫卡通
 http://111.12.102.79:6610/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,云南卫视
+#EXTINF:-1 ,group-title="移动源",云南卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,嘉佳卡通
+#EXTINF:-1 ,group-title="移动源",嘉佳卡通
 http://111.12.102.79:6610/PLTV/77777777/224/3221225797/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,西藏卫视
+#EXTINF:-1 ,group-title="移动源",西藏卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,河南卫视
+#EXTINF:-1 ,group-title="移动源",河南卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, 河南卫视
+#EXTINF:-1, group-title="移动源",河南卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,山东教育卫视
+#EXTINF:-1 ,group-title="移动源",山东教育卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广东珠江
+#EXTINF:-1 ,group-title="移动源",广东珠江
 http://111.12.102.79:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 ,group-title="移动源",纯享4K
 http://111.12.102.79:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,KAKU少儿
+#EXTINF:-1 ,group-title="移动源",KAKU少儿
 http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,金鹰纪实
+#EXTINF:-1 ,group-title="移动源",金鹰纪实
 http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,金鹰卡通
+#EXTINF:-1 ,group-title="移动源",金鹰卡通
 http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,黑莓动画
+#EXTINF:-1 ,group-title="移动源",黑莓动画
 http://39.135.32.28:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 
 
 
