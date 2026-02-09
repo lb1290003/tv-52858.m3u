@@ -343,7 +343,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&
 http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,group-title="移动源",黑莓动画
 http://39.135.32.28:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTM3Ux
+
 #EXTINF:-1 ,group-title="电信组播",广西IPTV
 http://192.168.2.1:4022/udp/239.81.0.203:4056
 #EXTINF:-1 ,group-title="电信组播",广西IPTV
@@ -766,6 +766,7 @@ http://192.168.2.1:4022/udp/239.81.1.68:4056
 http://192.168.2.1:4022/udp/239.81.1.82:4056
 #EXTINF:-1 ,group-title="电信组播",新动漫
 http://192.168.2.1:4022/udp/239.81.0.235:4056
+
 
 
 
