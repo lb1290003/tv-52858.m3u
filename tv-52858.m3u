@@ -73,7 +73,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1&I
 http://39.135.32.28:6610/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="动作电影" group-title="移动源",NewTV动作电影
 http://39.135.32.28:6610/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:- tvg-name="古装剧场" group-title"移动源",NewTV古装剧场
+#EXTINF:-1 tvg-name="古装剧场" group-title="移动源",NewTV古装剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="家庭剧场" group-title="移动源",NewTV家庭剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1&IASHttpSessionId=OTT
