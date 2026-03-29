@@ -63,45 +63,45 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221226424/index.m3u8?servicetype=1&I
 http://39.135.32.28:6610/PLTV/77777777/224/3221226347/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="钦州公共影视" group-title="移动源",钦州公共影视
 http://39.135.32.28:6610/PLTV/77777777/224/3221226459/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV中国功夫" group-title="移动源",NewTV中国功夫
+#EXTINF:-1 tvg-name="中国功夫" group-title="移动源",NewTV中国功夫
 http://39.135.32.28:6610/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV军事评论" group-title="移动源",NewTV军事评论
+#EXTINF:-1 tvg-name="军事评论" group-title="移动源",NewTV军事评论
 http://39.135.32.28:6610/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewNewTV军旅剧场" group-title="移动源",NewTV军旅剧场
+#EXTINF:-1 tvg-name="军旅剧场" group-title="移动源",NewTV军旅剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV农业致富" group-title="移动源",NewTV农业致富
+#EXTINF:-1 tvg-name="农业致富" group-title="移动源",NewTV农业致富
 http://39.135.32.28:6610/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV动作电影" group-title="移动源",NewTV动作电影
+#EXTINF:-1 tvg-name="动作电影" group-title="移动源",NewTV动作电影
 http://39.135.32.28:6610/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:- tvg-name="NewTV古装剧场" itle="移动源",NewTV古装剧场
+#EXTINF:- tvg-name="古装剧场" group-title"移动源",NewTV古装剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV家庭剧场" group-title="移动源",NewTV家庭剧场
+#EXTINF:-1 tvg-name="家庭剧场" group-title="移动源",NewTV家庭剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV怡伴健康" group-title="移动源",NewTV怡伴健康
+#EXTINF:-1 tvg-name="怡伴健康" group-title="移动源",NewTV怡伴健康
 http://39.135.32.28:6610/PLTV/77777777/224/3221225684/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" group-title="移动源",NewTV惊悚悬疑
+#EXTINF:-1 tvg-name="惊悚悬疑" group-title="移动源",NewTV惊悚悬疑
 http://39.135.32.28:6610/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV明星大片" group-title="移动源",NewTV明星大片
+#EXTINF:-1 tvg-name="明星大片" group-title="移动源",NewTV明星大片
 http://39.135.32.28:6610/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV武搏世界" group-title="移动源",NewTV武搏世界
+#EXTINF:-1 tvg-name="武搏世界" group-title="移动源",NewTV武搏世界
 http://39.135.32.28:6610/PLTV/77777777/224/3221225758/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV国产影视" group-title="移动源",NewTV国产影视
+#EXTINF:-1 tvg-name="国产影视" group-title="移动源",NewTV国产影视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV海外剧场" group-title="移动源",NewTV海外剧场
+#EXTINF:-1 tvg-name="海外剧场" group-title="移动源",NewTV海外剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" group-title="移动源",NewTV潮妈辣婆
+#EXTINF:-1 tvg-name="潮妈辣婆" group-title="移动源",NewTV潮妈辣婆
 http://39.135.32.28:6610/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV炫舞未来" group-title="移动源",NewTV炫舞未来
+#EXTINF:-1 tvg-name="炫舞未来" group-title="移动源",NewTV炫舞未来
 http://39.135.32.28:6610/PLTV/77777777/224/3221225728/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" group-title="移动源",NewTV爱情喜剧
+#EXTINF:-1 tvg-name="爱情喜剧" group-title="移动源",NewTV爱情喜剧
 http://39.135.32.28:6610/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV精品体育" group-title="移动源",NewTV精品体育
+#EXTINF:-1 tvg-name="精品体育" group-title="移动源",NewTV精品体育
 http://39.135.32.28:6610/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV精品大剧" group-title="移动源",NewTV精品大剧
+#EXTINF:-1 tvg-name="精品大剧" group-title="移动源",NewTV精品大剧
 http://39.135.32.28:6610/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV精品纪录" group-title="移动源",NewTV精品纪录
+#EXTINF:-1 tvg-name="烽烟剧场" group-title="移动源",NewTV烽烟剧场
 http://39.135.32.28:6610/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="移动源",NewTV金牌综艺
+#EXTINF:-1 tvg-name="谍战大剧" group-title="移动源",NewTV谍战大剧
 http://39.135.32.28:6610/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="黑莓动画" group-title="移动源",黑莓动画
 http://39.135.32.28:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
