@@ -1065,6 +1065,12 @@ http://192.168.2.1:4022/udp/239.81.0.62:4056
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="电信组播标清",卡酷少儿
 http://192.168.2.1:4022/udp/239.81.1.64:4056
 
+#EXTINF:-1 tvg-name="人间卫视" group-title="其它",人间卫视
+,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 tvg-name="梨园频道" group-title="其它",梨园频道
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1f850fce6de38ade050486b6949d1c82&wsTime=1768125638
+#EXTINF:-1 tvg-name="移动戏曲" group-title="其它",移动戏曲
+https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=49ef8c227c9c31d23594001b5d717c20&wsTime=1768125638
 
 
 
