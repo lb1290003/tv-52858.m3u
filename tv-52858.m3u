@@ -890,7 +890,7 @@ http://192.168.2.1:4022/udp/239.81.0.236:4056
 http://192.168.2.1:4022/udp/239.81.1.76:4056
 #EXTINF:-1 tvg-name="发现之旅" group-title="电信组播标清",发现之旅
 http://192.168.2.1:4022/udp/239.81.1.74:4056
-#EXTINF:-1 tvg-name="弈坛春秋" group-title="电信组播标清",弈坛春秋,
+#EXTINF:-1 tvg-name="弈坛春秋" group-title="电信组播标清",弈坛春秋
 http://192.168.2.1:4022/udp/239.81.1.73:4056
 #EXTINF:-1 tvg-name="法治天地" group-title="电信组播标清",法治天地
 http://192.168.2.1:4022/udp/239.81.0.79:4056
@@ -922,19 +922,15 @@ http://192.168.2.1:4022/udp/239.81.0.15:4056
 http://192.168.2.1:4022/udp/239.81.0.80:4056
 #EXTINF:-1 tvg-name="CETV1" group-title="电信组播标清",CETV-1
 http://192.168.2.1:4022/udp/239.81.0.52:4056
-#EXTINF:-1 tvg-name="CETV1" group-title="电信组播标清",CETV-1
-http://192.168.2.1:4022/udp/239.81.0.243:4056
 #EXTINF:-1 tvg-name="CETV2" group-title="电信组播标清",CETV-2
 http://192.168.2.1:4022/udp/239.81.1.61:4056
 #EXTINF:-1 tvg-name="CETV2" group-title="电信组播标清",CETV-2
-http://192.168.2.1:4022/udp/239.81.0.244:4056
+http://192.168.2.1:4022/udp/239.81.0.245:4056
 #EXTINF:-1 tvg-name="CETV3" group-title="电信组播标清",CETV-3
 http://192.168.2.1:4022/udp/239.81.1.62:4056
-#EXTINF:-1 tvg-name="CETV3" group-title="电信组播标清",CETV-3
-http://192.168.2.1:4022/udp/239.81.0.245:4056
 #EXTINF:-1 tvg-name="CETV4" group-title="电信组播标清",CETV-4
 http://192.168.2.1:4022/udp/239.81.1.63:4056
-#EXTINF:-1 tvg-name="CETV4" group-title="电信组播标清",CETV-4,
+#EXTINF:-1 tvg-name="CETV4" group-title="电信组播标清",CETV-4
 http://192.168.2.1:4022/udp/239.81.0.246:4056
 #EXTINF:-1 tvg-name="CGTN" group-title="电信组播标清",CGTN
 http://192.168.2.1:4022/udp/239.81.1.20:4056
