@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="e.erw.cc/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"  update time:'更新时间'
+#EXTM3U x-tvg-url="e.erw.cc/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="天映经典" group-title="测试",天映经典
 http://o11.163189.xyz/stream/live/ccm/
