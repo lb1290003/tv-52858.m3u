@@ -9,8 +9,6 @@ https://o11.163189.xyz/stream/live/ccm/
 https://www.goodiptv.club/douyu/4246519
 #EXTINF:-1 tvg-name="邵氏影院" group-title="数字",邵氏影院1
 #http://www.douzhicloud.site:35455/douyu/4246519
-#EXTINF:-1 tvg-name="力量影院" group-title="数字",1905电影网
-https://cdn.jdshipin.com/1905.php
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="数字",CHC动作电影
 http://192.168.2.1:4022/rtp/239.81.0.239:4056
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="数字",CHC影迷电影
@@ -278,7 +276,7 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1&I
 http://39.135.32.28:6610/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="山东卫视" group-title="移动源",山东卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="" group-title="移动源",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" group-title="移动源",北京卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="北京卫视" group-title="移动源",北京卫视
 http://39.135.32.28:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
