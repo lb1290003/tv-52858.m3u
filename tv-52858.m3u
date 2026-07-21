@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="e.erw.cc/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="天映经典" group-title="测试",天映经典
-https://cdn3.indevs.in/stream/live/ccm/
+https://cdn3.indevs.in/stream/live/ccm
 #EXTINF:-1 tvg-name="天映经典" group-title="测试",天映经典
-https://10.fast.hidns.vip/163189/ccm/
+https://cdn3.indevs.in/stream/live/ccm
 
 #EXTINF:-1 tvg-name="邵氏影院" group-title="数字",邵氏影院
 https://www.goodiptv.club/douyu/4246519
